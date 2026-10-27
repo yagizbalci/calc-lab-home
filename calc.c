@@ -1,7 +1,7 @@
 // Yagiz Balci 251ADB138
 // https://github.com/yagizbalci/calc-lab-home
 // Compile with: gcc -O2 -Wall -Wextra -std=c17 -o calc calc.c -lm
-// Resources used: RTU lab instructions; OpenAI Codex (AI)
+// Resources used: RTU lab instructions; OpenAI Codex (AI); code review: https://chatgpt.com/s/cx_6ae0ba359318819182f3ed22443eb63d
 
 #include <stdio.h>
 #include <stdlib.h>
